@@ -30,6 +30,18 @@ body {
     box-shadow: 0 0 30px lightblue;
 }
 
+/* enhanced pointer to stats card */
+.stats-card:hover {
+    box-shadow: 0 0 30px black;
+    cursor: pointer;
+}
+/* enhanced pointer to all the buttons */
+#unfunded-btn:hover, #funded-btn:hover, #all-btn:hover {
+    box-shadow: 0 0 30px lightblue;
+    cursor: pointer;
+
+}
+
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
