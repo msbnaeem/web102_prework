@@ -18,8 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-* [ ] Added pointer cursor to all the buttons and stats card for better visibility
-* [ ] Layout could be more enhanced, company name may have a link attached to it
+* [*] Added pointer cursor to all the buttons and stats card for better visibility
+* [*] Layout could be more enhanced, company name may have a link attached to it
 * [ ] Company and game description on top can get an area for themselves, currently it's just written on plane area. Would add more functionalities later on 
 
 ## Video Walkthrough
